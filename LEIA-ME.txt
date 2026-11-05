@@ -1,0 +1,6 @@
+OBRACERTA — PROTÓTIPO MOBILE
+
+Extraia o ZIP. Abra index.html para testar no navegador.
+Para instalar como app na tela inicial do celular, publique os arquivos em um endereço HTTPS (por exemplo, GitHub Pages), abra o endereço no navegador do celular e escolha "Adicionar à tela inicial".
+
+O protótipo é demonstrativo: usa dados fictícios e guarda a lista no próprio navegador. Não possui banco de dados, login real, envio de cotações, notificações, pagamentos ou comunicação real com depósitos.

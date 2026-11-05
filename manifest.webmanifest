@@ -1,0 +1,8 @@
+{
+  "name": "ObraCerta - Marketplace de Construção",
+  "short_name": "ObraCerta",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#172033"
+}
